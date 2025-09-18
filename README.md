@@ -55,9 +55,13 @@ Some notebooks may require pre-processed video data or pre-trained models. Refer
 
 If you use this code in your research, please cite our paper:
 
-@article{videoTransformerAdversarial,
-  title={Adversarial Robustness of Video Transformers through Spatiotemporal XAI Analysis},
-  author={...},
-  journal={...},
-  year={2025}
+@article{10.1145/3766071,
+author = {Wang, Zerui and Liu, Yan},
+title = {Joint Spatiotemporal Adversarial Attacks on Video Transformer Models Through XAI-guided Perturbation},
+year = {2025},
+publisher = {Association for Computing Machinery},
+issn = {1551-6857},
+url = {https://doi.org/10.1145/3766071},
+doi = {10.1145/3766071},
+journal = {ACM Trans. Multimedia Comput. Commun. Appl.}
 }
